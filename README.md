@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="70px" src="./reports/figures/depressao_logo.png">
+  <img height="70px" src="./reports/figures/house_price1.png">
 </p>
 
 <p align="center" style="font-size:1.5vw">
