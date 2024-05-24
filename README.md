@@ -27,10 +27,20 @@
 </p>
 
 
+<p align="center">
+  <img width="90%" src="./reports/figures/house_price_banner.png">
+</p>
+
+
 # Análise de Preços de Casas - base de dados House Price
 
 
 <h3 id="id1">📌 Visão Geral</h3>
+
+O objetivo deste case é analisar os fatores que influenciam o preço dos imóveis. O dataset utilizado contém informações detalhadas sobre diversos aspectos das moradias nos Estados Unidos, como Avaliação o material geral e o acabamento da casa,Avaliação da condição geral da casa, Quartos acima do nível (NÃO inclui quartos no subsolo), entre outros. Essas características refletem o contexto específico do mercado imobiliário estadunidense. Ao analisar esses dados, espera-se identificar quais variáveis têm maior impacto no valor das propriedades e como esses insights podem ajudar na compreensão das dinâmicas de precificação imobiliária.
+
+
+[Notebbok do Projeto Completo](https://github.com/Oseiasdfarias/analise_house_price/blob/main/notebooks/notebook_analise_house_pricing.ipynb)
 
 
 <h3 id="id2">💼 Entendimento do Negócio</h3>
